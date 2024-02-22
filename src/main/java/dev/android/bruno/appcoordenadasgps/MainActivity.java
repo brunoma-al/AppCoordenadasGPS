@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             Manifest.permission.ACCESS_COARSE_LOCATION,
             Manifest.permission.READ_CONTACTS};
 
-    public static final int APP_PERMISSOES_ID = 2021;
+    public static final int APP_PERMISSOES_ID = 2024;
 
 
     TextView txtValorLatitude, txtValorLongitude;
